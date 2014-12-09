@@ -10,5 +10,10 @@
   "keywords": [
     "meshblu-connector",
     "gateblu"
-  ]
+  ],
+  "description": "Connects cat terminating nodebots to Octoblu for the good of humanity.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Christian Smith",
+  "license": "MIT"
 }
